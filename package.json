@@ -1,0 +1,23 @@
+{
+  "name": "unit-test-exercise",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patfarmurs/unit-test-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Patfarmurs/unit-test-exercise/issues"
+  },
+  "homepage": "https://github.com/Patfarmurs/unit-test-exercise#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
